@@ -1,0 +1,5 @@
+teclas de comando para usabilidade do git:
+DIR= diretório de pastas
+CD= navegar entre pastas
+CD ..= voltar pasta
+CTR+L= limpa tela
