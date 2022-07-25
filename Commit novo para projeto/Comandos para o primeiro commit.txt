@@ -1,0 +1,8 @@
+Ao criar uma pasta, dentro do repositório escolhido, faremos a seguir os passos para commitar e agregar ela no GitHub:
+no git, colocar os comandos:
+git status (irá mostrar a situação do arquivo)
+git add . (assim adicionará o arquivo em questão no git)
+git status (para verificar se ele entrou de fato no git)
+git commit -m "descrição" (para salvar as alterações do arquivo desejado e adicionar a descrição que i´ra ser visualizada no github)
+git status (para vefificar se tudo está de acordo)
+git push origin main/master (para subir para a núvem o arquivo enviado)
